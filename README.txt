@@ -11,6 +11,7 @@
  - For function documentation see:  http://playground.arduino.cc/Code/PIDLibrary
 
 See too:
-
  - Arduino PID AutoTune Library:
    https://github.com/br3ttb/Arduino-PID-AutoTune-Library
+
+   http://brettbeauregard.com/blog/2012/01/arduino-pid-autotune-library/
