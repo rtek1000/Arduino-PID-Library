@@ -9,3 +9,8 @@
    http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/
 
  - For function documentation see:  http://playground.arduino.cc/Code/PIDLibrary
+
+See too:
+
+ - Arduino PID AutoTune Library:
+   https://github.com/rtek1000/Arduino-PID-AutoTune-Library
