@@ -13,4 +13,4 @@
 See too:
 
  - Arduino PID AutoTune Library:
-   https://github.com/rtek1000/Arduino-PID-AutoTune-Library
+   https://github.com/br3ttb/Arduino-PID-AutoTune-Library
