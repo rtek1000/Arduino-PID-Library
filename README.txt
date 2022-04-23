@@ -15,3 +15,5 @@ See too:
    https://github.com/br3ttb/Arduino-PID-AutoTune-Library
 
    http://brettbeauregard.com/blog/2012/01/arduino-pid-autotune-library/
+   
+   https://playground.arduino.cc/Code/PIDAutotuneLibrary/
