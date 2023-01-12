@@ -56,12 +56,10 @@ void loop()
     //windowStartTime += WindowSize;
     windowStartTime = millis();
   }
-  if (Output < millis() - windowStartTime) {
+  if (Output <= millis() - windowStartTime) { // From '<' to '<=': Prevent triggering when Output value is 0
     digitalWrite(RELAY_PIN, HIGH);
   } else {
-    if (Output > 0) { // Prevent triggering when Output value is 0
       digitalWrite(RELAY_PIN, LOW);
-    }  
   }
 }
 
